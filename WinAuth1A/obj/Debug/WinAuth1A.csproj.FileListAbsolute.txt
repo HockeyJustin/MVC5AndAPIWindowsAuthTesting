@@ -1,0 +1,92 @@
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\bin\roslyn\csc.exe
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\bin\roslyn\vbc.exe
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\bin\roslyn\VBCSCompiler.exe
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\bin\WinAuth1A.dll.config
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\bin\WinAuth1A.dll
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\bin\WinAuth1A.pdb
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\bin\Antlr3.Runtime.dll
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\bin\Newtonsoft.Json.dll
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\bin\System.Net.Http.Formatting.dll
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\bin\System.Web.Helpers.dll
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\bin\System.Web.Http.dll
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\bin\System.Web.Http.WebHost.dll
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\bin\System.Web.Mvc.dll
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\bin\System.Web.Optimization.dll
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\bin\System.Web.Razor.dll
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\bin\System.Web.WebPages.dll
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\bin\System.Web.WebPages.Razor.dll
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\bin\WebGrease.dll
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\bin\System.Web.Helpers.xml
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\bin\System.Web.Mvc.xml
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\bin\System.Web.Optimization.xml
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\bin\System.Web.Razor.xml
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\bin\System.Web.WebPages.xml
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\bin\System.Web.WebPages.Razor.xml
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\bin\Antlr3.Runtime.pdb
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\bin\Newtonsoft.Json.xml
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\bin\System.Net.Http.Formatting.xml
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\bin\System.Web.Http.xml
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\bin\System.Web.Http.WebHost.xml
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\obj\Debug\WinAuth1A.dll
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\obj\Debug\WinAuth1A.pdb
+C:\Users\jonesj.LUMI\Documents\Visual Studio 2015\Projects\WinAuth1A\WinAuth1A\obj\Debug\WinAuth1A.csprojResolveAssemblyReference.cache
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\bin\roslyn\csc.exe
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\bin\roslyn\vbc.exe
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\bin\roslyn\VBCSCompiler.exe
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\bin\WinAuth1A.dll.config
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\bin\WinAuth1A.dll
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\bin\WinAuth1A.pdb
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\bin\Antlr3.Runtime.dll
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\bin\Newtonsoft.Json.dll
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\bin\System.Net.Http.Formatting.dll
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\bin\System.Web.Helpers.dll
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\bin\System.Web.Http.dll
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\bin\System.Web.Http.WebHost.dll
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\bin\System.Web.Mvc.dll
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\bin\System.Web.Optimization.dll
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\bin\System.Web.Razor.dll
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\bin\System.Web.WebPages.dll
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\bin\System.Web.WebPages.Razor.dll
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\bin\WebGrease.dll
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\bin\System.Web.Helpers.xml
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\bin\System.Web.Mvc.xml
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\bin\System.Web.Optimization.xml
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\bin\System.Web.Razor.xml
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\bin\System.Web.WebPages.xml
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\bin\System.Web.WebPages.Razor.xml
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\bin\Antlr3.Runtime.pdb
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\bin\Newtonsoft.Json.xml
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\bin\System.Net.Http.Formatting.xml
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\bin\System.Web.Http.xml
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\bin\System.Web.Http.WebHost.xml
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\obj\Debug\WinAuth1A.csprojResolveAssemblyReference.cache
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\obj\Debug\WinAuth1A.dll
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\WinAuth1A\obj\Debug\WinAuth1A.pdb
