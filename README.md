@@ -1,5 +1,7 @@
-# MVC5AndAPIWindowsAuthTesting
-Test of Windows Auth with MVC And API
+# MVC5 And Web API - Windows Authentication Testing
+
+Test of Windows Auth with MVC 5 And API
+
 
 See [MVC and IIS Setup For Windows Authentication.docx](https://github.com/HockeyJustin/MVC5AndAPIWindowsAuthTesting/blob/master/MVC%20and%20IIS%20Setup%20For%20Windows%20Authentication.docx) for details on how this project is set up and IIS setup (some IIS setup will be required to get this working nicely).
 
