@@ -60,9 +60,11 @@ namespace WinAuth1A.Controllers
 				//should probably do a redirect here to the unauthorized/failed login page
 				//if you know how to do this, please tap it on the comments below
 				Response.Write("Unauthorized. Reload the page to try again...");
-				Response.End();
+				//Response.End();
+				Response.Redirect("http://169.254.80.80/winauth/Home");
+				
 
-				return RedirectToAction("Index");
+				//return RedirectToAction("Index");
 			}
 
 			cookie = new HttpCookie("TSWA-Last-User", string.Empty)

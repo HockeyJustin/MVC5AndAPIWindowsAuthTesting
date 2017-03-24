@@ -15,5 +15,53 @@ namespace WinAuth1A.Areas.Secure.Controllers
             return View();
         }
 
+
+
+		public ActionResult LogOut()
+		{
+			HttpCookie cookie = Request.Cookies["TSWA-Last-User"];
+
+			if (String.IsNullOrWhiteSpace(User.Identity.Name))
+			{
+				return RedirectToAction("Index");
+			}
+
+
+			if (User.Identity.IsAuthenticated == false || cookie == null || StringComparer.OrdinalIgnoreCase.Equals(User.Identity.Name, cookie.Value))
+			{
+				string name = string.Empty;
+
+				if (Request.IsAuthenticated)
+				{
+					name = User.Identity.Name;
+				}
+
+				cookie = new HttpCookie("TSWA-Last-User", name);
+				Response.Cookies.Set(cookie);
+
+				Response.AppendHeader("Connection", "close");
+				Response.StatusCode = 401; // 403 Forbidden 401; // Unauthorized;
+				Response.Clear();
+				//should probably do a redirect here to the unauthorized/failed login page
+				//if you know how to do this, please tap it on the comments below
+				Response.Write("Unauthorized. Reload the page to try again...");
+				//Response.End();
+				Response.Redirect("http://169.254.80.80/winauth/Home");
+
+
+				//return RedirectToAction("Index");
+			}
+
+			cookie = new HttpCookie("TSWA-Last-User", string.Empty)
+			{
+				Expires = DateTime.Now.AddYears(-5)
+			};
+
+			Response.Cookies.Set(cookie);
+
+			return RedirectToAction("Index");
+
+		}
+
 	}
 }

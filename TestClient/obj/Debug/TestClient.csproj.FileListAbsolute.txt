@@ -1,0 +1,6 @@
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\TestClient\bin\Debug\TestClient.exe.config
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\TestClient\bin\Debug\TestClient.exe
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\TestClient\bin\Debug\TestClient.pdb
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\TestClient\obj\Debug\TestClient.exe
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\TestClient\obj\Debug\TestClient.pdb
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\MVC5AndAPIWindowsAuthTesting\TestClient\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
